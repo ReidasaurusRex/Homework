@@ -1,0 +1,27 @@
+.top {
+	background: #F2F2F2;
+	height: 40px;
+	line-height: 40px;
+}
+.col-lg-4 {
+	text-align: center;
+}
+.descrip {
+	padding: 10px 0px 10px 0px;
+}
+.vertical {
+	border-left: thin solid #000000;
+}
+.content {
+	padding-top: 25px;
+}
+.contact {
+	padding-top: 30px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 1.3em;
+}
+.buttons {
+	padding-top: 45px;
+	margin-bottom: 40px;
+}
